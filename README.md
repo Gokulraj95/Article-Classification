@@ -1,6 +1,8 @@
 # Article-Classification
 Classification of Technical Articles
-​
+
+
+
 OBJECTIVE :
 The objective of this project is to determine whether or not, a set of articles can be classified or clustered into categories.
 
